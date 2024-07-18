@@ -1,0 +1,9 @@
+.cardImage{
+  display: grid; 
+  grid: auto auto / auto auto auto auto; 
+  grid-gap: 5px; 
+  background-color: rgb(233, 249, 238); 
+  padding: 10px; 
+  
+
+}
